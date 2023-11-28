@@ -1,0 +1,26 @@
+{
+  "name": "Derek Garrett",
+  "age": 29,
+  "address": {
+    "street": "Luwlas Junction",
+    "city": "Bagbodar",
+    "state": "CA",
+    "zip": "56141"
+  },
+  "contact": {
+    "phone": "(807) 748-1007",
+    "servicePhone": "800534512"
+  },
+  "birthday": "1995-05-11T15:00:27.916Z",
+  "ip": "158.199.242.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Osnaj toduuj pecizu zidur en biesora sijew fafude kipfohuj owipiuc niirafe uma do. Vad buhmewwo rah lat movevbeh naukova gokaifu kuv cotgawuk oj vuwu gujutdo dodnol dur nujefizer lekliro wedpukpa. Tizkez ho ruhehmif senlacev ohutugtuk zabna fores mercunez hululuj kiefopu ega azezsu.",
+    "bio": "Deji muvrum meczoju weplad sim legcuage duc kulu ti toeduca eta suokene uzo. Dobeg tive givud merrof sa gunapce sisbeg pe hud rodzo ezru hehaag dosutopo. Kihompa gezo tegoc memoza kubom hivcej guvca sel zowvut fugu satzes huhsiku bevuw niplar vesadup ruf evo."
+  },
+  "apiKey": "d6a5dc946017ab3b971cdd7f52e65a23a01269f7ef42819cd1c49022152bb65c",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
