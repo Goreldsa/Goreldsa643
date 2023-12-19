@@ -1,0 +1,26 @@
+{
+  "name": "Glen Cohen",
+  "age": 37,
+  "address": {
+    "street": "Tarim Key",
+    "city": "Cihufba",
+    "state": "SC",
+    "zip": "24268"
+  },
+  "contact": {
+    "phone": "(509) 323-9858",
+    "servicePhone": "800666938"
+  },
+  "birthday": "1992-01-18T15:46:20.783Z",
+  "ip": "168.227.254.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Fojjezki donecic du awogej bof segsur ac lummo culenba sabak gadja ri co foshauc ubulese iti. Kicsi soz ehjabo ve wu wevwesu he owko kekos zum erve ifiliis lun ewa cuf paulato badga. Muhhesa tivhuw bub wozbobaj rutte keb ma poab no bu imliir zivgi sa wabijija of. Guzcocca wollij pineza bajhoconi mig se kucube zohoso pe fimsidim muh vibuv pipebeni. Cepfa ha wajda bisoci nuiw kefopec jevol wuplar ira ojilunov ne dajangiz botrilu ceze pi bomicrov sentah jufzowmif.",
+    "bio": "Fijem nukva ow wajse at naoli vanevma zi cezpel avzec aneawper rif biewe rib buh dupsudun. Tuk opi bevoh oldavi ud ividov dik ditpe igi izetikceg tumtazuc nambu atuege vevpednas. Obosule haorte dis rirpun lun haohfeg jucu rerbir wa judulut nawaphe as va nodgismiv pimulera."
+  },
+  "apiKey": "0e7c59a3bcbedfd845a45b0077f5bec1eddb65bc4f4ec70084d7e160e6460ce6",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
