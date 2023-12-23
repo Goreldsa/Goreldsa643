@@ -1,0 +1,26 @@
+{
+  "name": "Mike Hogan",
+  "age": 42,
+  "address": {
+    "street": "Ucsif Park",
+    "city": "Kidipwu",
+    "state": "CA",
+    "zip": "83766"
+  },
+  "contact": {
+    "phone": "(658) 876-9249",
+    "servicePhone": "800835759"
+  },
+  "birthday": "1986-10-15T18:45:31.104Z",
+  "ip": "118.218.78.165",
+  "foo": "bar",
+  "profile": {
+    "about": "Honavhe inamoniz sodza ede dosidwu ravizwug kom defem koij kaupojod arvicur tebizes. Guhi rakhec co sehid ju pozvuk fabugcoj tiwmib lesi guz ke gurzokik fawaloom fimah haf ihujo pivi nezo. Pib dohazzi luf wutas mefuaco rehlamun depsodhu cetok nehfuv mi dedu jarwewe ga siwe. Ig socmuvoce enileg wa dipnoffe icrajraw uffiki rijoj makvolepu fipif rovre za ig.",
+    "bio": "Pirewref bahajpej ekovku zumzev temudorav metalolu cangik abidubsis iruwew wojid lewila ciheb ju pujaga juvdef. Moc futalhih legaol pibkig tubademab obmavsot dickin usauhoga cap leb le dubpowok um lurofa lozrij. Se cuvi rijop etfo hag luvfi farazina cozmisvig sudmo dap belda va bijaba vi cefeen apha eso ver."
+  },
+  "apiKey": "163876fb0ebd07899f47526c2bee85d24e3692450df1d1ec6f0504b40ebc5705",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
