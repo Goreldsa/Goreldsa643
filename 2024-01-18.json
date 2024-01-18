@@ -1,0 +1,26 @@
+{
+  "name": "Dale Henry",
+  "age": 62,
+  "address": {
+    "street": "Mita Street",
+    "city": "Codhuaz",
+    "state": "SC",
+    "zip": "56881"
+  },
+  "contact": {
+    "phone": "(301) 997-1127",
+    "servicePhone": "800233188"
+  },
+  "birthday": "1971-05-21T12:31:21.073Z",
+  "ip": "126.29.172.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Deom uhvisnik sinira pum ninam azubivog lagweg jegiwde vejzew rerjagmej gosuj zonikto miope. Gik mowub higuznir wuzgam vekuem lir rujfa fi om lelsadap po ezgajson puegegus munug sikza wag. Ho perju bovfo zal sezuf bo sudvet ip ve bul feliw safgagfil buri kihizbiw ome bahvikis nej vizaj.",
+    "bio": "Kizohek hahcibo uv pez guul iluzi cizoiki onhicuhu gofare sokidetu le mircob win huslez soj niw. Jihoewa zokvo hace wiwsi fuej azu siwiljem pa higesenib resoholo divjuer medre pi tirgowin heh. Pifmopof it numgef sirzopje ib towete vajsir wul ule ohaamiv dev zitek sek naccem kogloclov te."
+  },
+  "apiKey": "de1f0c3ce22481191f999885c7696203b8e2994bb13fb1d268d7f0ac9d318231",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
