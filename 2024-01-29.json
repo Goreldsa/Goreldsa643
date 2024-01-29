@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Douglas",
+  "age": 25,
+  "address": {
+    "street": "Vuto Park",
+    "city": "Jibteus",
+    "state": "NV",
+    "zip": "00461"
+  },
+  "contact": {
+    "phone": "(353) 543-7991",
+    "servicePhone": "800428264"
+  },
+  "birthday": "1975-02-04T15:44:37.258Z",
+  "ip": "106.245.66.120",
+  "foo": "bar",
+  "profile": {
+    "about": "Ezezu lomi oketab fataw lendap me liw gev ijguvme mit fi gi nesujave ewfe. Zow ozu jilzuco dozvisji hupwezi udedojwa cartaow uzu fi jajre ed fipru uhta ohukpet ulnof se moj. Sana et ezur tuz micacifa noeru um aci lifapgu vasirsud je aha zowazimaw vije madov miduncem helih iggi. Etfut terohzij an rifka oj fociki muulof bu nakzi ti ruubuzat unilagar nifwet.",
+    "bio": "Ded kume lisroowu zas fimaf arwozi tagnu be sapurro bitutuog kahofi woblup serdoid kiaz zabof peofimim ri. Lesi to damegisa zi cigadmag totdu ofacog titefaca fu isap cot rojsi ver momenta lifac. Wakes ja cifuuwi zulcepi vigif umiig vijzuc zoatkod uddob nu dos olakuto inamojac. He kise hemeb witome akehiis vibom wubu osvemva heberu fed lil sigru maj aro jic."
+  },
+  "apiKey": "2dce0d070d26d61642fd5fff53d5d34434369992fedeab80a4597e6d82987f57",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
