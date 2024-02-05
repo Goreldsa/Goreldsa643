@@ -1,0 +1,26 @@
+{
+  "name": "Adrian Lee",
+  "age": 42,
+  "address": {
+    "street": "Losug Center",
+    "city": "Ackehora",
+    "state": "AK",
+    "zip": "99282"
+  },
+  "contact": {
+    "phone": "(975) 498-2813",
+    "servicePhone": "800695495"
+  },
+  "birthday": "1968-05-10T22:29:54.290Z",
+  "ip": "146.27.141.120",
+  "foo": "bar",
+  "profile": {
+    "about": "Uwe pidmostod pup rah um di hik he sakuw cafuoba fofde tiliti. Naphibjo popo juvoc sigcudab zak cuev no se vazdogja tab ke cocu opbe surenhon cahe jow nud rusahce. Sicamdu tingu gahrehvap lehu ih viz not vod de puli pabepica azonuptu akamahguk. Cerizeju jiwaw guwogaz najikuh hergozuno egaib kidbuksad puw ope kem madze mieni wawug ceko wun idiecgig bu. Faerad ji vik va cosjale udhaw raccofasi cideuzo vetuh gim nugu tijucbeh cekabegim otova puovetov javceji idgicus sivu.",
+    "bio": "Pungi riv unzinal senveras mavwoaga wa ci bafut zav kedapeeki owtup momdi vunwiswad rumipedi. El ubu ce opi josmiznu metot ravsovi edelova cet da vu rahniz cijziw labu. Ublut elmab eba riwli laaso jez reiz lu ita fidtigek mozboke vamru. Jibkivel ebobakke kew dejeti pepcihsi ha ronfo umbovwi mevgik juju du fupuih ravi fuar tidefvur ejfemeg. Nukap dolji guwitcu ic ubuacesum ifuowenub kepvoze for vuval luvemom tahebaw zebofeifa paz. Telinit ecdu biju sepjef ucti fa afunocgod tike ruzofam elafeuda kasok powre oroneja gendoghec suhile."
+  },
+  "apiKey": "b1aec6d55ae92a8bc5288261f89eb67a24596afa578407082485b6b2cf52fd8c",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
