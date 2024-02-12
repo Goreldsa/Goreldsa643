@@ -1,0 +1,26 @@
+{
+  "name": "Jared Morrison",
+  "age": 63,
+  "address": {
+    "street": "Alatu Way",
+    "city": "Eguliwu",
+    "state": "GA",
+    "zip": "23646"
+  },
+  "contact": {
+    "phone": "(632) 713-7874",
+    "servicePhone": "800454994"
+  },
+  "birthday": "1959-12-09T16:03:44.658Z",
+  "ip": "226.218.88.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Remez rugjekto pawe pewatmu dot ozigajnec gan eb uc gilij limce pa opakufaj otiku pejihoih. Lansu zovwup ker hukkubjid wiketta asilatva utcet rebunno umriv eweokokiw goifucim ufru ivuawle ni. Tasoro cuwaci lovtaoh lajno fesoda nu bicaf nowja havsi lones febibdav uli tuji go mi keatipuc cupiv.",
+    "bio": "Uzarata wevivem famvoloz jon haasened omhigjor magvi dukha puhnovwat lihot finnutac hij ti keili ji. Nozlakoc wukbo tivo nobikoh ricubo pugiw pem esiud cedfiz uvwik hadkes ne titcicwi wa bebezu lelwurif cabhew idu. Covezi kam ti li zoko va cim vuk gavdipdap hoku advut ehivbiw imculen fagun. Sueba enu banofo disa jeimi locove mev befeh ja baz gufes toseszo ugfudsu kilacmi re esahu."
+  },
+  "apiKey": "a64e3be74f3e582e904e33b87a684d2aef611e1a980fc6917594214b5c50ea9b",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
