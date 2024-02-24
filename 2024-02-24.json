@@ -1,0 +1,26 @@
+{
+  "name": "Jim Larson",
+  "age": 38,
+  "address": {
+    "street": "Vojak Highway",
+    "city": "Dajibel",
+    "state": "LA",
+    "zip": "16224"
+  },
+  "contact": {
+    "phone": "(854) 304-3722",
+    "servicePhone": "800513412"
+  },
+  "birthday": "1963-07-09T09:30:38.815Z",
+  "ip": "133.190.60.155",
+  "foo": "bar",
+  "profile": {
+    "about": "Gebeficu so bajup mupmer wilif demewhe lavit do warrih jumelmi ukipe wugum isoonsir rov wodkizwuw pa. Zi uto ta evoza weedavu ceidu jeabodu hunhola idfoglu se dog weg gufub taum lula hog nisve. Gikgasu jebdomak ave ekho hug melac peguffe ogzebce dim buwul cuuszo veckaktum. Leudfi wu umbifal el mav fefok mar ifo kocaes pazuzwi li focup to sujpezo ikauje himmiizu pugifwu bunpuul.",
+    "bio": "Sodu olearo gatav damkusa tuteb muzis joibu lur decan get gekjawom zutuala uhilob. Avarupa sik cu lec vudac le bew tahnoze wu heskave fumuegu toba waec mos ajba dezne. Jed ikutuk giv uziad biw epezepop sikne es soj vetir opefuwa nek eczuwlu sahumuz zere. Hoevje up hofbobbi gu ba ru ci obfe desso wazgef livja ra. Oji risema uziog unuzifzi fuockoc kucbu pipjizah hu kaduclo daona asmu motheul kajuk. Viwsiw ruawriz ogzi veeguc jarnovuni zudgi fe habom ezzi fainnaj jih romja logueb zuroni ehej."
+  },
+  "apiKey": "13696c047d67a444ee2517b43233f69c0c43f047d19db756db1debbf2ab9d9e2",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
