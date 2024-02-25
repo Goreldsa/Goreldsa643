@@ -1,0 +1,26 @@
+{
+  "name": "Daniel Jones",
+  "age": 26,
+  "address": {
+    "street": "Muplaj Place",
+    "city": "Opaadado",
+    "state": "FL",
+    "zip": "64063"
+  },
+  "contact": {
+    "phone": "(911) 311-8251",
+    "servicePhone": "800571484"
+  },
+  "birthday": "1980-05-28T20:21:27.740Z",
+  "ip": "28.168.17.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Litnewam kuolif gowugu het da ijetodtaw ovo kuwe to ev havdowolo aca mo jojike. Mulic vetkahna du civ fimiw ap akeeko laffuv hodac la fuimube kuzuvci no. Sutnurwu ici ze fu atagub oja cekveteh tosene id wika ra gav niefe jehoc.",
+    "bio": "Gimune wo wiwvor henjedol bike ase ja sohicze if hospudso kiocoedo zib ca se tiik utemed. Mipdoc sobo avi sol buten vujet tuucerug acuri ujota buzu noisugu ivtiumo fesuwaw ginvuvir uho tigumi. Tevfel luk dic mosoona ceti amdeola gowfaoz hut zoogi lac fuc zetli zoic pi leeri udaontud edovawku. Kunrib cortu hevak du agiri lasaro sitepfit du ukiwonu tad el asfotal. Nertuvkez luzim vencem madog oluni ibuame vol jicildu ziw gi zide ahi cunaz gokkisuz gubokal he."
+  },
+  "apiKey": "97fab24d17736363b62de3b9be243605ecf85face55fe5033599e315bf9450be",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
