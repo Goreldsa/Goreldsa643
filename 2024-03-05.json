@@ -1,0 +1,26 @@
+{
+  "name": "Alfred Burton",
+  "age": 30,
+  "address": {
+    "street": "Ubobog Manor",
+    "city": "Sunonor",
+    "state": "UT",
+    "zip": "95912"
+  },
+  "contact": {
+    "phone": "(387) 890-1357",
+    "servicePhone": "800769594"
+  },
+  "birthday": "1999-05-02T10:27:08.461Z",
+  "ip": "88.123.84.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Rov kolifezo waru ed iv japaan gecwe te pesfog ded buv govebgoc fi. Nawjo zooko wildu lon ezi zo gi os ida funi wo rovozoho hehhappek kic foedote ha. Suib mi gec to sidueke ul dopekpi jo olo uh pes bu imwom dohpeh akeki.",
+    "bio": "Hupwufag kihe fe seek tunawi nahek pi noumuv adu liseduk umu itkak tebowsi vebucte. Lor gepojob ew selocusem wuptefva kioke guzeplow zame korozi paj daz vehuhiv. Seslafba ozlumur cavda hiallok tiepi pibupu ovmujov ocuwupu ubcisefi eta wekfud sopcavzad wikal li jellebbag nomiw gozumiki bete. Lejcu cun la datocgah gu hebwomih elga cadaefi isguc bimal rej ewaomiti kohsi."
+  },
+  "apiKey": "80d6f95817ce4651890083e87eea3328c19d7e781c41698fc6b0b7e5f0389126",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
