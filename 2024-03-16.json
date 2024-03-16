@@ -1,0 +1,26 @@
+{
+  "name": "Herman Cummings",
+  "age": 44,
+  "address": {
+    "street": "Vifge Plaza",
+    "city": "Veksebhev",
+    "state": "LA",
+    "zip": "99222"
+  },
+  "contact": {
+    "phone": "(861) 822-7085",
+    "servicePhone": "800115232"
+  },
+  "birthday": "1995-02-06T12:27:08.366Z",
+  "ip": "210.218.236.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Wosuzbag zopon riz nofver itifeki wac neni tuniiru ite tahiwat hat umoga kova lo ha. Japno erikoz uvi maclez cecufbev isulo nu dum houvumez worvi asium izi kivgag. Kev eha gige zol gi jebmesa lo jirlowrak ol gig neipa be jomazruk covpo co. Jid ebzica naarugi no viton med hezbi kaz jugulso ru kum ogubakbi pi gogorlew jat. Leptad bacifer kokumiti tuzit hin go rig luusum mih wiaci lob oc sevokus koeneco jefevut. Metsu venahhej jarruv boj hizid mat sih nuted raklezjac jizoom sonlumini gilpa covomsiv vi vi. Ewwinci mufik wi kedvi zuborifil nivmoku kocup civo fefo dit ja mafnicor ed kitazla deeckof la de ini.",
+    "bio": "Vibesa ro mavonigi wu ka tijtuil ro polude akaba pu zobikid finabmab panosid tetegidi jujo. Lefgasteg rokap eg fu pesofi kicowza zopta ge barveke wojso fajmabec damulah. Efe pe eku lup faudi akisozmi fodge lar dumsah bem ped no kuzru."
+  },
+  "apiKey": "8690d7a027cc7257dd8996e66135c23cd4a1aa418f85a3146b3323e3628387de",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
