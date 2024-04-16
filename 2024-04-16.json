@@ -1,0 +1,26 @@
+{
+  "name": "Isabelle Hale",
+  "age": 49,
+  "address": {
+    "street": "Vunepu Square",
+    "city": "Azomiwi",
+    "state": "HI",
+    "zip": "13232"
+  },
+  "contact": {
+    "phone": "(729) 648-3804",
+    "servicePhone": "800671949"
+  },
+  "birthday": "2000-01-19T07:03:54.475Z",
+  "ip": "150.139.203.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Ferrohso divlu enla be bapsocogu ut mi huw ves nuha jihucjo orku of rasdo. Uk fekjuz veno ufa suzinju kivahja wog vun orusaato godbesfut saumi ow padesek teceugi noc ano uf. Taji hif lop vojgoevi vine gonsu sal uji gukimwe ina lumoc pobo kunwus soet rasotzog.",
+    "bio": "Ciuhowu biza abeceiw gamjem kaeksug eceehtah focevtis mib sidoh gicu dej nafhofti. Zu ce igliuva zuzgi cokij merej godvilfo fona zi nomanuda jeok esu ve subazhi egbaof uketo. Lah saubeog tocukkib wudzac tuepime giudiheg awpo ko feroleg efgeb fihawwe jukog."
+  },
+  "apiKey": "8d95d7e9fcf1d5ec1ea80fa3641af001d0876adec1f0f06d41fb045b06cf52d3",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
